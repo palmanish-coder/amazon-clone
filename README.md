@@ -1,2 +1,2 @@
 # amazon-clone
-this is my amazon clone
+this is my amazon clone.
